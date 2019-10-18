@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84.403" height="97.5" viewBox="0 0 84.403 97.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbd133;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #0f0f0f;
+      }
+
+      .cls-2 {
+        font-size: 37px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_6" data-name="Grupo 6" transform="translate(-32.5 -158.5)">
+    <g id="Trazado_2" data-name="Trazado 2" class="cls-1" transform="translate(116.903 158.5) rotate(90)">
+      <path class="cls-3" d="M 71.39328002929688 81.40298461914062 L 26.10670280456543 81.40298461914062 L 3.464461326599121 42.20149230957031 L 26.10670280456543 3 L 71.39328002929688 3 L 94.03553771972656 42.20149230957031 L 71.39328002929688 81.40298461914062 Z"/>
+      <path class="cls-4" d="M 27.83839416503906 6 L 6.928909301757812 42.20149230957031 L 27.83839416503906 78.40298461914062 L 69.66159057617188 78.40298461914062 L 90.57108306884766 42.20149230957031 L 69.66159057617188 6 L 27.83839416503906 6 M 24.375 0 L 73.12498474121094 0 L 97.5 42.20149230957031 L 73.12498474121094 84.40298461914062 L 24.375 84.40298461914062 L 0 42.20149230957031 L 24.375 0 Z"/>
+    </g>
+    <text id="DF_" data-name="DF/" class="cls-2" transform="translate(41.959 219.601)"><tspan x="0" y="0">DF/</tspan></text>
+  </g>
+</svg>
